@@ -1,8 +1,9 @@
 public class Apartment {
-    int a;
-    int b;
+	int a;
+	int b;
 
-    public void print() {
-        System.out.println("Bismillah");
-    }
+	public void print() {
+		System.out.println("Bismillah");
+		System.out.println("Fine");
+	}
 }
